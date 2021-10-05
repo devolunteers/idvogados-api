@@ -35,12 +35,16 @@ gem 'rexml', '~> 3.2', '>= 3.2.4'
 gem 'honeycomb-beeline'
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
-gem 'tzinfo-data', platforms: %i[mingw mswin x64_mingw jruby]
+gem 'tzinfo-data', platforms: %i(mingw mswin x64_mingw jruby)
 
 group :development, :test do
-  gem 'byebug', platforms: %i[mri mingw x64_mingw]
+  gem 'byebug', platforms: %i(mri mingw x64_mingw)
   gem 'fabrication', require: false
   gem 'rspec-rails', '4.0.2'
+  gem 'rubocop'
+  gem 'reek'
+  gem 'rubocop-rails'
+  gem 'rubocop-rspec'
 end
 
 group :development do

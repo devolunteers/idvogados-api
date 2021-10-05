@@ -1,0 +1,85 @@
+AllCops:
+  NewCops: enable
+  Exclude:
+    - 'vendor/**/*'
+    - 'spec/fixtures/**/*'
+    - 'tmp/**/*'
+    - 'node_modules/**/*'
+    - 'db/**/*.rb'
+    - 'bin/*'
+  TargetRubyVersion: 3.0.1
+
+Metrics/ParameterLists:
+  Exclude:
+    - 'app/workers/*'
+
+Layout/LineLength:
+  Max: 100
+  Exclude:
+    - 'config/routes.rb'
+    - '**/bin/rails'
+
+Metrics/MethodLength:
+  Exclude:
+    - 'spec/**/*.rb'
+    - 'db/migrate/*.rb'
+
+Metrics/AbcSize:
+  Exclude:
+    - 'spec/**/*.rb'
+
+Metrics/BlockLength:
+  Max: 30
+  Exclude:
+    - 'spec/**/*.rb'
+    - 'db/migrate/*.rb'
+    - 'lib/tasks/**/*.rake'
+    - 'config/initializers/*.rb'
+
+Metrics/ModuleLength:
+  Exclude:
+    - 'spec/**/*.rb'
+
+Style/Documentation:
+  Exclude:
+    - 'app/controllers/**/*.rb'
+    - 'app/helpers/**/*.rb'
+    - 'spec/**/*.rb'
+    - 'db/migrate/*.rb'
+
+Style/BlockDelimiters:
+  Exclude:
+    - 'spec/**/*_spec.rb'
+
+Style/RedundantPercentQ:
+  Exclude:
+    - 'spec/features/**/*_spec.rb'
+
+Style/RedundantFetchBlock:
+  Exclude:
+    - 'config/initializers/*.rb'
+
+Style/ClassAndModuleChildren:
+  Enabled: false
+
+Style/SafeNavigation:
+  Enabled: false
+
+Style/EmptyMethod:
+  Enabled: false
+
+Bundler/OrderedGems:
+  Enabled: false
+
+Style/PercentLiteralDelimiters:
+  Description: "Use `%`-literal delimiters consistently"
+  Enabled: true
+  PreferredDelimiters:
+    "%i": "()"
+    "%w": "()"
+
+Gemspec/OrderedDependencies:
+  Enabled: false
+
+Naming/RescuedExceptionsVariableName:
+  Enabled: false
