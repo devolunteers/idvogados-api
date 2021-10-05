@@ -39,12 +39,13 @@ gem 'tzinfo-data', platforms: %i(mingw mswin x64_mingw jruby)
 
 group :development, :test do
   gem 'byebug', platforms: %i(mri mingw x64_mingw)
-  gem 'fabrication', require: false
-  gem 'rspec-rails', '4.0.2'
+  gem 'fabrication'
+  gem 'rspec-rails'
   gem 'rubocop'
   gem 'reek'
   gem 'rubocop-rails'
   gem 'rubocop-rspec'
+  gem 'faker'
 end
 
 group :development do

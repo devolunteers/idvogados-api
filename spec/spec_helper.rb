@@ -21,6 +21,7 @@ require 'rspec/collection_matchers'
 require 'rspec/mocks'
 require 'shoulda-matchers'
 require 'honeycomb-beeline'
+require 'faker'
 
 Honeycomb.configure do |config|
   config.client = Libhoney::TestClient.new
