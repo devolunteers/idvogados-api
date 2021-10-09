@@ -20,18 +20,19 @@ module IdvogadosApi
 
   # Public: Classe inicializadora da aplicação
   class Application < Rails::Application
-    # Initialize configuration defaults for originally generated Rails version.
+    # Inicializa o Rails com configuração padrão da versão 6.1
     config.load_defaults 6.1
 
-    # Configuration for the application, engines, and railties goes here.
-    #
-    # These settings can be overridden in specific environments using the files
-    # in config/environments, which are processed later.
-    #
-    # config.time_zone = "Central Time (US & Canada)"
-    # config.eager_load_paths << Rails.root.join("extras")
-    config.autoload_paths << config.root.join('lib')
+    # Configuração de fuso-horário
+    config.time_zone = 'America/Sao_Paulo'
+
+    # Carrega as traduções de erros e mensagens, com valor padrão
+    # para o pt-BR (Português Brasil)
+    config.i18n.default_locale = 'pt-BR'
+    config.i18n.load_path += Dir[Rails.root.join('config', 'locales', '**', '*.{rb,yml}')]
+
     # Carrega diretórios customizados com classes e módulos
+    config.autoload_paths << Rails.root.join('app/repositories')
     config.eager_load_paths << Rails.root.join('lib')
   end
 end
