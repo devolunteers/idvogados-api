@@ -19,7 +19,6 @@ gem 'sass-rails', '>= 6'
 gem 'webpacker', '~> 5.0'
 
 # db
-gem 'attr_encrypted', '~> 3.0'
 gem 'connection_pool', '~> 2.2'
 gem 'pg', '~> 1.2'
 
