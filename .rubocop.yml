@@ -7,7 +7,7 @@ AllCops:
     - 'node_modules/**/*'
     - 'db/**/*.rb'
     - 'bin/*'
-  TargetRubyVersion: 3.0.1
+  TargetRubyVersion: 3.0.0
 
 Metrics/ParameterLists:
   Exclude:
