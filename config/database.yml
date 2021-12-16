@@ -1,0 +1,16 @@
+development: &default
+  pool: 10
+  adapter: postgresql
+  host: localhost
+  username: postgres
+  password: postgres
+  database: idvogados_development
+  timeout: 5000
+
+test:
+  <<: *default
+  database: idvogados_test
+
+production:
+  <<: *default
+  url: <%= ENV['DATABASE_URL'] %>

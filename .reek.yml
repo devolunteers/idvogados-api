@@ -1,0 +1,69 @@
+---
+detectors:
+  TooManyStatements:
+    max_statements: 10
+
+  TooManyInstanceVariables:
+    max_instance_variables: 6
+
+  UncommunicativeMethodName:
+    reject:
+    - "/^[a-z]$/"
+    - "/[0-9]$/"
+
+  UncommunicativeParameterName:
+    reject:
+    - "/^.$/"
+    - "/[0-9]$/"
+    - "/^_/"
+
+  UncommunicativeVariableName:
+    reject:
+    - "/^.$/"
+    - "/[0-9]$/"
+    accept:
+    - _
+    - t
+
+  UncommunicativeModuleName:
+    accept:
+    - "V1"
+
+  UtilityFunction:
+    enabled: false
+
+  DuplicateMethodCall:
+    max_calls: 2
+    allow_calls:
+      - 'BigDecimal'
+
+  IrresponsibleModule:
+    enabled: false
+
+  NestedIterators:
+    max_allowed_nesting: 2
+
+  MissingSafeMethod:
+    enabled: false
+
+  FeatureEnvy:
+    enabled: false
+
+  InstanceVariableAssumption:
+    exclude:
+      - "/Controller$/"
+      - "/Mailer$/"
+
+  Attribute:
+    enabled: false
+
+  ControlParameter:
+    exclude:
+      - "/Worker/"
+
+  LongParameterList:
+    exclude:
+      - "/Worker/"
+
+exclude_paths:
+  - spec/integration/

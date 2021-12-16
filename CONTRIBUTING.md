@@ -1,18 +1,12 @@
 # Termos de Uso (Colaboradores)
 
-
-
 > <span style="color:red">**IMPORTANTE**: O presente Termo de Uso é destinado aos Colaboradores, **não sendo extensiva** aos usuários finais.</span>
-
-
 
 > **AVISO**
 >
 > <mark>O desenvolvimento da comunidade encontra-se em fase inicial. Estes **Termos de Uso** poderão sofrer alteração a qualquer momento</mark>.
 >
 > Data da última revisão: **25 de abril de 2020**.
-
-
 
 ## 1. O que este Termo de Uso compreende?
 
@@ -31,7 +25,7 @@ Compreender estes termos é importante porque, para se tornar um colaborar, voc�
 
 ### B. Restrição de Idade
 
-Para realizar colaboração na Plataforma é necessário idade igual ou superior a 18 (dezoito) anos. 
+Para realizar colaboração na Plataforma é necessário idade igual ou superior a 18 (dezoito) anos.
 
 Em algumas hipóteses será necessária comprovação de habilitação na área em que pretende atuar. Estas hipóteses estarão listadas em documento apartado, denominado **Documentação para habilitação**.
 
@@ -55,7 +49,7 @@ Assim, o **idvogados** conta com diversas frente de atuação, tais como, porém
 
 ![01-idvogados](01-idvogados.png)
 
-----
+---
 
 ## 3. O que esperamos dos Colaboradores?
 
@@ -111,7 +105,7 @@ O **idvogados** reserva-se ao direito de recusar a participação de colaborador
 
 Fica o Colaborador ciente de que, ao participar da comunidade, também estará sujeito ao Contrato de Confidencialidade, igualmente disponível para consulta.
 
-----
+---
 
 ## 4. Dos materiais produzidos
 
@@ -121,9 +115,9 @@ Destas atividades não raramente serão criados documentos internos e públicos,
 
 Assim, o colaborador deverá estar ciente dos seguintes aspectos:
 
-* Ao enviar, postar, compartilhar, ou citar conteúdo através desta comunidade, você concede ao **idvogados** uma licença mundial, não exclusiva, isenta de royalties (com o direito de sublicenciar) para usar, copiar, reproduzir, processar, adaptar, modificar, publicar, transmitir, exibir e distribuir tal conteúdo em todos e quaisquer meios ou métodos de distribuição (agora conhecidos ou posteriormente desenvolvidos), sem compensação pecuniária (ou qualquer outra forma de compensação). Além disso, o você garante, declara e concorda que tem o direito de conceder tal licença para o **idvogados** como descrito acima.
-* Os conteúdos produzidos pelos colaboradores poderão ser utilizados em sua integralidade, em sua forma original ou modificada, em produção de peças publicitárias, de comunicação, briefing e outros documentos públicos ou internos.
-* Você também garante e concorda que não tem e não vai contribuir com qualquer conteúdo que: viole direitos autorais ou marca registrada de outra parte; revele qualquer segredo comercial, a menos que o segredo comercial pertença ao você mesmo ou se ele tiver a permissão do proprietário para divulgá-las; viole qualquer direito de propriedade intelectual de outro ou os direitos de privacidade ou publicidade de terceiros; seja calunioso, difamatório, abusivo, ameaçador, ofensivo, odioso ou que violem qualquer um dos aspectos contidos no item _3. O que esperamos dos Colaboradores?_; e que não estejam em conformidade com outros termos de uso da Plataforma.
+- Ao enviar, postar, compartilhar, ou citar conteúdo através desta comunidade, você concede ao **idvogados** uma licença mundial, não exclusiva, isenta de royalties (com o direito de sublicenciar) para usar, copiar, reproduzir, processar, adaptar, modificar, publicar, transmitir, exibir e distribuir tal conteúdo em todos e quaisquer meios ou métodos de distribuição (agora conhecidos ou posteriormente desenvolvidos), sem compensação pecuniária (ou qualquer outra forma de compensação). Além disso, o você garante, declara e concorda que tem o direito de conceder tal licença para o **idvogados** como descrito acima.
+- Os conteúdos produzidos pelos colaboradores poderão ser utilizados em sua integralidade, em sua forma original ou modificada, em produção de peças publicitárias, de comunicação, briefing e outros documentos públicos ou internos.
+- Você também garante e concorda que não tem e não vai contribuir com qualquer conteúdo que: viole direitos autorais ou marca registrada de outra parte; revele qualquer segredo comercial, a menos que o segredo comercial pertença ao você mesmo ou se ele tiver a permissão do proprietário para divulgá-las; viole qualquer direito de propriedade intelectual de outro ou os direitos de privacidade ou publicidade de terceiros; seja calunioso, difamatório, abusivo, ameaçador, ofensivo, odioso ou que violem qualquer um dos aspectos contidos no item _3. O que esperamos dos Colaboradores?_; e que não estejam em conformidade com outros termos de uso da Plataforma.
 
 ---
 
@@ -165,7 +159,7 @@ Além das disposições acima elencadas, o colaborador ficará sujeito a aplica�
 5. [**LEI Nº 8.906, DE 4 DE JULHO DE 1994.**](http://legislacao.planalto.gov.br/legisla/legislacao.nsf/Viw_Identificacao/lei 8.906-1994?OpenDocument)
 6. [**RESOLUÇÃO N. 02/2015**](https://www.oab.org.br/arquivos/resolucao-n-022015-ced-2030601765.pdf)
 
-----
+---
 
 ## 7. Remuneração
 
@@ -177,7 +171,7 @@ Você fica ciente de que todas as atividades relacionadas ao **idvogados** são 
 
 ## 8. Denúncias
 
-Nós incentivamos que a própria comunidade resolva os conflitos de maneira amigável e saudável. 
+Nós incentivamos que a própria comunidade resolva os conflitos de maneira amigável e saudável.
 
 Porém, se você sentir que um colaborador não apresenta reciprocidade de comportamento, ou que, mesmo conversando amigavelmente o conflito não alcançou uma solução pacífica, por favor, entre em contato!
 
