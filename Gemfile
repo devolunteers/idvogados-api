@@ -65,7 +65,7 @@ group :test do
   gem 'rspec-collection_matchers'
   gem 'rspec-mocks'
   gem 'selenium-webdriver'
-  gem 'shoulda-matchers', '~> 4.5', require: false
+  gem 'shoulda-matchers', '~> 5.0', require: false
   gem 'simplecov', require: false
   gem 'timecop'
   gem 'valid_attribute', '~> 2.0.0'
