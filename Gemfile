@@ -51,7 +51,7 @@ group :development do
   gem 'better_errors'
   gem 'binding_of_caller'
   gem 'letter_opener_web'
-  gem 'listen', '~> 3.3'
+  gem 'listen', '~> 3.7'
   gem 'rack-mini-profiler', '~> 2.0'
   gem 'spring'
   gem 'web-console', '>= 4.1.0'
