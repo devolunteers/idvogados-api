@@ -20,7 +20,7 @@ gem 'webpacker', '~> 5.0'
 
 # db
 gem 'connection_pool', '~> 2.2'
-gem 'pg', '~> 1.2'
+gem 'pg', '~> 1.3'
 
 # encryptation
 gem 'bcrypt', '~> 3.1.7'
