@@ -906,10 +906,10 @@
     mkdirp "^1.0.4"
     rimraf "^3.0.2"
 
-"@rails/actioncable@^6.0.0":
-  version "6.1.4"
-  resolved "https://registry.yarnpkg.com/@rails/actioncable/-/actioncable-6.1.4.tgz#c3c5a9f8302c429af9722b6c50ab48049016d2a3"
-  integrity sha512-0LmSKJTuo2dL6BQ+9xxLnS9lbkyfz2mBGeBnQ2J7o9Bn0l0q+ZC6VuoZMZZXPvABI4QT7Nfknv5WhfKYL+boew==
+"@rails/actioncable@^7.0.2":
+  version "7.0.2"
+  resolved "https://registry.yarnpkg.com/@rails/actioncable/-/actioncable-7.0.2.tgz#69a6d999f4087e0537dd38fe0963db1f4305d650"
+  integrity sha512-G26maXW1Kx0LxQdmNNuNjQlRO/QlXNr3QfuwKiOKb5FZQGYe2OwtHTGXBAjSoiu4dW36XYMT/+L1Wo1Yov4ZXA==
 
 "@rails/activestorage@^6.0.0":
   version "6.1.4"
@@ -6702,10 +6702,8 @@ watchpack@^1.7.4:
   resolved "https://registry.yarnpkg.com/watchpack/-/watchpack-1.7.5.tgz#1267e6c55e0b9b5be44c2023aed5437a2c26c453"
   integrity sha512-9P3MWk6SrKjHsGkLT2KHXdQ/9SNkyoJbabxnKOoJepsvJjJG8uYTR3yTPxPQvNDI3w4Nz1xnE0TLHK4RIVe/MQ==
   dependencies:
-    chokidar "^3.4.1"
     graceful-fs "^4.1.2"
     neo-async "^2.5.0"
-    watchpack-chokidar2 "^2.0.1"
   optionalDependencies:
     chokidar "^3.4.1"
     watchpack-chokidar2 "^2.0.1"
