@@ -27,7 +27,7 @@ gem 'bcrypt', '~> 3.1.7'
 
 # utils
 gem 'bootsnap', '>= 1.4.4', require: false
-gem 'nokogiri', '~> 1.11.1', require: false
+gem 'nokogiri', '~> 1.13.4', require: false
 gem 'rexml', '~> 3.2', '>= 3.2.4'
 
 # tracing
