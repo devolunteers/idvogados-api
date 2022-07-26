@@ -101,7 +101,7 @@ GEM
       mail (~> 2.7)
     erubi (1.10.0)
     excon (0.86.0)
-    fabrication (2.22.0)
+    fabrication (2.30.0)
     faker (2.19.0)
       i18n (>= 1.6, < 2)
     ffi (1.15.4)
