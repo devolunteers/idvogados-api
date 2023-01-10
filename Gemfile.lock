@@ -104,7 +104,7 @@ GEM
     fabrication (2.22.0)
     faker (2.19.0)
       i18n (>= 1.6, < 2)
-    ffi (1.15.4)
+    ffi (1.15.5)
     ffi-compiler (1.0.1)
       ffi (>= 1.0.0)
       rake
@@ -136,7 +136,7 @@ GEM
       addressable (~> 2.0)
       excon
       http (>= 2.0, < 6.0)
-    listen (3.7.0)
+    listen (3.8.0)
       rb-fsevent (~> 0.10, >= 0.10.3)
       rb-inotify (~> 0.9, >= 0.9.10)
     llhttp-ffi (0.4.0)
@@ -202,7 +202,7 @@ GEM
       thor (~> 1.0)
     rainbow (3.0.0)
     rake (13.0.6)
-    rb-fsevent (0.11.0)
+    rb-fsevent (0.11.2)
     rb-inotify (0.10.1)
       ffi (~> 1.0)
     reek (6.0.6)
@@ -331,7 +331,7 @@ DEPENDENCIES
   faker
   honeycomb-beeline
   letter_opener_web
-  listen (~> 3.3)
+  listen (~> 3.8)
   nokogiri (~> 1.11.1)
   pg (~> 1.2)
   puma (~> 5.5)
