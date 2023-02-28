@@ -12,7 +12,7 @@ gem 'rails', '~> 6.1.4', '>= 6.1.4.1'
 gem 'caze'
 
 # server
-gem 'puma', '~> 5.5'
+gem 'puma', '~> 6.1'
 
 # assets
 gem 'sass-rails', '>= 6'
